@@ -1,4 +1,4 @@
-# Iosevkafixedss08 WebFont 30.3.0
+# Iosevkafixedss08 WebFont 30.3.1
 
 ## How to use
 
